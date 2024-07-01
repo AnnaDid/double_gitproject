@@ -1,12 +1,11 @@
 def change_text():
-    """ПЕРЕВОДИТ В ВЕРХНИЙ РЕГИСТР"""
+    """Переводит в верхний регистр"""
     text = input()
     text = text.upper()
 
 
 
 change_text()
-
 
 
 
@@ -17,5 +16,6 @@ def change_text_2():
 
 
 change_text_2()
+
 
 
